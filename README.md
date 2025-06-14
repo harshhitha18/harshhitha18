@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI student<br>
+Aspiring AI innovator mastering machine learning to solve real-world problems!<br>
 
 
 # 📊 GitHub Stats:
